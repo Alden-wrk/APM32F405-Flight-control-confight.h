@@ -1,6 +1,10 @@
 # APM32F405-Flight-control-confight.h
 New Betaflitht design config.h
 
+Add it to the betaflight-master\src\config\configs directory
+make GEEHY405
+compile betaflight_4.6.0_APM32F405_GEEHY405.hex
+
 Betaflight flight control board developed and designed using APM32F405
 Betaflight added Geehy APM32F4xx SDK, the functions have been tested, very perfect operation
 The created branch address ：[https://github.com/omni-workshop/betaflight]
