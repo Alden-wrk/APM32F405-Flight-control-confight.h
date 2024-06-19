@@ -3,7 +3,7 @@ New Betaflitht design config.h
 
 Betaflight flight control board developed and designed using APM32F405
 Betaflight added Geehy APM32F4xx SDK, the functions have been tested, very perfect operation
-The created branch address ：[https://github.com/omni-workshop/betaflight](url)
+The created branch address ：[https://github.com/omni-workshop/betaflight]
 
 ![d3bfc2ba5ad356d91d8588c134a31ca](https://github.com/Alden-wrk/APM32F405-Flightcontrol-config.h/assets/168357057/38f17c2e-f74d-41f6-8bfb-abb77f85ed69)
 
